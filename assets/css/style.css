@@ -408,7 +408,6 @@ nav {
 @media (max-width: 768px) {
     #about.split-container {
         flex-direction: column;
-        text-align: center;
     }
 
     #about.split-container .text p,
