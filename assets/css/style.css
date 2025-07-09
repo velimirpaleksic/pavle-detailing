@@ -467,6 +467,7 @@ nav {
     overflow: hidden;
     text-align: center;
     color: white;
+    padding: 4rem 0;
 }
 
 .parallax-bg::before {
